@@ -1,0 +1,3 @@
+chrome_path: chrome.exe
+language: EN
+options: --disable-popup-blocking --disable-translate --start-maximized --url "https://vk.com/lowbank.trade"
